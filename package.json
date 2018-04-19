@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
+  },
+  "author": "Dave Hudson <dave@applification.net> (http://applification.net/)",
+  "license": "MIT",
+  "dependencies": {
+    "next": "5.1.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-native-elements": "0.19.1",
+    "react-native-minimalist": "2.1.1",
+    "react-native-web": "0.6.0"
+  },
+  "devDependencies": {
+    "babel-plugin-react-native-web": "0.6.0"
+  }
+}
